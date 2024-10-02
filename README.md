@@ -8,9 +8,6 @@
 
 ## 1. 关卡
 
-![image](https://github.com/user-attachments/assets/7678811b-4158-4ad4-8161-ac5ba1730c13)
-
-
 ### 1.1. 入门关卡
 
 ||关卡名称|资料|闯关激励|
