@@ -16,6 +16,7 @@
 |第 2 关|Python 前置基础 | [任务](docs/L0/Python/task.md)、[文档](docs/L0/Python)、[视频](https://www.bilibili.com/video/BV1mS421X7h4/)| 50元算力点|
 |第 3 关|Git 前置基础|[任务](docs/L0/Git/task.md)、[文档](docs/L0/Git)、[视频](https://www.bilibili.com/video/BV1Pz421i7bw/)| 50元算力点 |
 
+从这里开始个人仓库，用于提交笔记、心得体会或分享项目：
 ### 1.2. 基础关卡
 
 
